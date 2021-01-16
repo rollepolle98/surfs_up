@@ -14,9 +14,13 @@ Below you can see the summary statistics for the month of June.
 
 ![](Analysis/JuneStats.png) 
 
+* ### Average Temperature = 75 Degrees
+
 Below you can see the summary statistics for the month of December.
 
 ![](Analysis/DecemberStats.png) 
+
+* ### Average Temperature = 71 Degrees
 
 ## Summary and Conclusion
 
