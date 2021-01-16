@@ -12,10 +12,11 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I had to filter the 
 
 Below you can see the summary statistics for the month of June.
 
-![](Analysis/1st_Analysis.png) 
+![](Analysis/JuneStats.png) 
 
 Below you can see the summary statistics for the month of December.
 
+![](Analysis/December_Stats.png) 
 
 ## Summary and Conclusion
 
