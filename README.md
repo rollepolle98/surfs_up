@@ -6,9 +6,14 @@ The purpose of this challenge is to give W. Avy further analysis due to the fact
 
 
 
-## Process and Analysis
+## Analysis and Results
+
+Using Python, Pandas functions and methods, and SQLAlchemy, I had to filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June and December. From there I then converted those temperatures to a list, created two DataFrame's from each list, and generated the summary statistics for each month. This process was done by creating a query that filters the date column from the measurment table to obtain all the temperatures for the months of June and December.
+
+Below you can see the summary statistics for the month of June.
 
 
+Below you can see the summary statistics for the month of December.
 
 
 ## Summary and Conclusion
